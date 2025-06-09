@@ -49,4 +49,5 @@ user settings (in your project right top) -> Personal access tokens -> New token
 ## For the TRACKER_REPO
 For this repo you can choose private or public as you want. But this default branch name should be `master`
 
-<!-- Written by [Iwan Li](https://github.com/Iwan-LMX) -->
+<!-- Written by [Iwan Li](https://github.com/Iwan-LMX) -->### _2025-06-09 15:06:00_ **[Placez] Merged PR 5575: UI Fixes for Floorplan Favorite Notes** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/02b7d20ce20c1365e8fe1596878a4cf1dd31efc8))
+
