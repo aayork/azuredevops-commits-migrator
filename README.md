@@ -51,3 +51,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 <!-- Written by [Iwan Li](https://github.com/Iwan-LMX) -->### _2025-06-09 15:06:00_ **[Placez] Merged PR 5575: UI Fixes for Floorplan Favorite Notes** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/02b7d20ce20c1365e8fe1596878a4cf1dd31efc8))
 
+### _2025-07-03 17:07:00_ **[Placez] Merged PR 5576: Add scrollbar to asset list** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/9500127c85e4a167d376f7c265d3db80a4826d9b))
+
