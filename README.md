@@ -55,3 +55,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-07-03 18:07:00_ **[Placez] Merged PR 5736: Adjust zoom on iframe to remove scrollbar** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/771bff9a6ae360fa841ef6c58c3c1de3458441f4))
 
+### _2025-07-03 18:07:00_ **[Placez] Merged PR 5760: remove label size slider** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/7fdc118beaad05601c251d347e6b9520ed116e31))
+
