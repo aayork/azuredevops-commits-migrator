@@ -57,3 +57,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-07-03 18:07:00_ **[Placez] Merged PR 5760: remove label size slider** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/7fdc118beaad05601c251d347e6b9520ed116e31))
 
+### _2025-07-07 17:07:00_ **[Placez] Merged PR 5770: first floorplan selected when entering page** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/85218ad9bc06f79897b630505835822089a1558a))
+
