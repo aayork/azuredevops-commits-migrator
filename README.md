@@ -59,3 +59,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-07-07 17:07:00_ **[Placez] Merged PR 5770: first floorplan selected when entering page** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/85218ad9bc06f79897b630505835822089a1558a))
 
+### _2025-07-07 17:07:00_ **[Placez] Merged PR 5757: Make invoice item lines selectable** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/0aa5512b94d9da12709b160aa8a9423343984742))
+
