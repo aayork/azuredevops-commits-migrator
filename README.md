@@ -63,3 +63,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-07-07 19:07:00_ **[Placez] Merged PR 5793: edit name without needing to add subevent** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/fc66db8ec2ca2dba27168a505c5ba7a2a0df2439))
 
+### _2025-07-08 14:07:00_ **[Placez] Merged PR 5796: Fix type error** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/7a33ca85d171884ecdb1a7b09559ffa316d0a268))
+
