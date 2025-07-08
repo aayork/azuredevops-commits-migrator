@@ -65,3 +65,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-07-08 14:07:00_ **[Placez] Merged PR 5796: Fix type error** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/7a33ca85d171884ecdb1a7b09559ffa316d0a268))
 
+### _2025-07-08 18:07:00_ **[Placez] Merged PR 5810: Fix build error** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/93b2b786461990665d5dab2b111bf83f336a2520))
+
