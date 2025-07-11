@@ -67,3 +67,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-07-08 18:07:00_ **[Placez] Merged PR 5810: Fix build error** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/93b2b786461990665d5dab2b111bf83f336a2520))
 
+### _2025-07-11 19:07:00_ **[Placez] Merged PR 5785: filter payments by event id** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/ce3ba41dd3c2d2c5fa476cc07f485bcef2913650))
+
