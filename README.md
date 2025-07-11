@@ -69,3 +69,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-07-11 19:07:00_ **[Placez] Merged PR 5785: filter payments by event id** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/ce3ba41dd3c2d2c5fa476cc07f485bcef2913650))
 
+### _2025-07-11 20:07:00_ **[Placez] Merged PR 5843: add group item tooltips** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/36cc75813aff8d1511bcbc58c871446b1190eea6))
+
