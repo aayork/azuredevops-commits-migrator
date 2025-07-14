@@ -71,3 +71,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-07-11 20:07:00_ **[Placez] Merged PR 5843: add group item tooltips** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/36cc75813aff8d1511bcbc58c871446b1190eea6))
 
+### _2025-07-14 18:07:00_ **[Placez] Merged PR 5849: Changes to Floorplan Wall, Floor, and Height Editors** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/458a29b15e9a2213546fe2a5e28dbc1c8a17b0af))
+
