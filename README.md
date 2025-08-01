@@ -73,3 +73,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-07-14 18:07:00_ **[Placez] Merged PR 5849: Changes to Floorplan Wall, Floor, and Height Editors** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/458a29b15e9a2213546fe2a5e28dbc1c8a17b0af))
 
+### _2025-08-01 20:08:00_ **[Placez] Merged PR 5999: Show floorplan on creation of new venue** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/95448e36ccc4ed0bb7a736f812f0f99f5caf4216))
+
