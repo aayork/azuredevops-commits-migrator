@@ -75,3 +75,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-08-01 20:08:00_ **[Placez] Merged PR 5999: Show floorplan on creation of new venue** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/95448e36ccc4ed0bb7a736f812f0f99f5caf4216))
 
+### _2025-08-05 16:08:00_ **[Placez] Merged PR 6023: Remove useEffect warning** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/ad3a3bdacdc7d7633afbd918cc81cf0f550c8ac5))
+
