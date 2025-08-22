@@ -77,3 +77,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-08-05 16:08:00_ **[Placez] Merged PR 6023: Remove useEffect warning** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/ad3a3bdacdc7d7633afbd918cc81cf0f550c8ac5))
 
+### _2025-08-22 20:08:00_ **[Placez] Merged PR 6156: Partial invoice UI updates** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/525c6a282b3619a2af0068c413ed805c7bc35da1))
+
