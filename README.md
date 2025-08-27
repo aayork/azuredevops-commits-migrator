@@ -79,3 +79,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-08-22 20:08:00_ **[Placez] Merged PR 6156: Partial invoice UI updates** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/525c6a282b3619a2af0068c413ed805c7bc35da1))
 
+### _2025-08-27 19:08:00_ **[Placez] Merged PR 6201: Fix text overflowing/clipping** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/b457b34ea1fd02734bea0e88a588fdd96aaa31b9))
+
