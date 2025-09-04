@@ -83,3 +83,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-09-04 13:09:00_ **[Placez] Merged PR 6247: Display Payment ID in event details payments tab** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/33f5f69ee36a083cba0a939fe17434bf7691b62c))
 
+### _2025-09-04 14:09:00_ **[Placez] Merged PR 6152: Change Default Material to White and Change Lighting in Floorplan Editor for Color Accuracy** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/63ffd84ddec9c846880a68eedcf48569a8b962f4))
+
