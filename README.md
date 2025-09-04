@@ -81,3 +81,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-08-27 19:08:00_ **[Placez] Merged PR 6201: Fix text overflowing/clipping** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/b457b34ea1fd02734bea0e88a588fdd96aaa31b9))
 
+### _2025-09-04 13:09:00_ **[Placez] Merged PR 6247: Display Payment ID in event details payments tab** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/33f5f69ee36a083cba0a939fe17434bf7691b62c))
+
