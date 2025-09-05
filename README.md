@@ -85,3 +85,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-09-04 14:09:00_ **[Placez] Merged PR 6152: Change Default Material to White and Change Lighting in Floorplan Editor for Color Accuracy** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/63ffd84ddec9c846880a68eedcf48569a8b962f4))
 
+### _2025-09-05 19:09:00_ **[Placez] Merged PR 6251: remove remove material button** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/db6a9019a116862a1f9c47beeac75c5474189597))
+
