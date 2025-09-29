@@ -89,3 +89,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-09-29 17:09:00_ **[Placez] Merged PR 6388: Fix save error on apply everywhere button** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/86c2349018c0d7dc5ca5640afe28078cfe42e024))
 
+### _2025-09-29 17:09:00_ **[Placez] Merged PR 6455: Invoice Editor UI - Custom Line Items** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/3ae1143faf3d0e63e3256407e88c64b24dc4a829))
+
