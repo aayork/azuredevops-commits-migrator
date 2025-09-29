@@ -87,3 +87,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-09-05 19:09:00_ **[Placez] Merged PR 6251: remove remove material button** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/db6a9019a116862a1f9c47beeac75c5474189597))
 
+### _2025-09-29 17:09:00_ **[Placez] Merged PR 6388: Fix save error on apply everywhere button** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/86c2349018c0d7dc5ca5640afe28078cfe42e024))
+
