@@ -91,3 +91,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-09-29 17:09:00_ **[Placez] Merged PR 6455: Invoice Editor UI - Custom Line Items** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/3ae1143faf3d0e63e3256407e88c64b24dc4a829))
 
+### _2025-10-09 18:10:00_ **[Placez] Merged PR 6524: More UI changes** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/2058dc39ff45a43d0d55c65ad2ff311dc678787c))
+
