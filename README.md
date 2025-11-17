@@ -95,3 +95,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-10-30 13:10:00_ **[Placez] Merged PR 6667: Implement payments page** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/8390e405529cce57fc74c4da0366fce95de152d6))
 
+### _2025-11-17 14:11:00_ **[Placez] Merged PR 6735: Create payment links/requests grid** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/612800fa54a4cf50a782eeadb98af6c42dc8602b))
+
