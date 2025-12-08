@@ -101,3 +101,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-12-04 21:12:00_ **[Placez] Merged PR 6885: Payment Links Settings and Basic Wireup** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/9deeb3300e2f040f38e1f194b882e2ee72f656ec))
 
+### _2025-12-08 16:12:00_ **[Placez] Merged PR 6886: Minor adjustments to payment requests UI** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/cef860839633fd1869157860368ba2e63ae62e26))
+
