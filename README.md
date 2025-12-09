@@ -103,3 +103,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-12-08 16:12:00_ **[Placez] Merged PR 6886: Minor adjustments to payment requests UI** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/cef860839633fd1869157860368ba2e63ae62e26))
 
+### _2025-12-09 15:12:00_ **[Placez] Merged PR 6926: Overhaul manual payment collection UI/UX** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/2c9f39310db81fcf489cd31c7e7cbfa9aa8b471e))
+
