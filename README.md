@@ -105,3 +105,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-12-09 15:12:00_ **[Placez] Merged PR 6926: Overhaul manual payment collection UI/UX** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/2c9f39310db81fcf489cd31c7e7cbfa9aa8b471e))
 
+### _2025-12-15 22:12:00_ **[Placez] Merged PR 6997: wireup save cc in client settings** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/e37c977190f27110440722c979579169b65d3bec))
+
