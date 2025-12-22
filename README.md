@@ -109,3 +109,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-12-15 22:12:00_ **[Placez] Merged PR 6999: Show saved ccs in manual payment modal** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/7f812fd307d0e61ec5a3e4c3627da55df6231d8e))
 
+### _2025-12-22 14:12:00_ **[Placez] Merged PR 7068: Payment Setup UI** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/49068e209a7a4c6fa86ee505210501c31c6cc886))
+
