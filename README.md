@@ -115,3 +115,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-01-13 14:01:00_ **[Placez] Merged PR 7226: Fix build** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/25cdc5596808d1dcc032c915392cfc83b2c997f9))
 
+### _2026-01-13 14:01:00_ **[Placez] Merged PR 7228: fix build again** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/b6c3561b75484e6cf1844fef40a5ad611078a696))
+
