@@ -111,3 +111,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2025-12-22 14:12:00_ **[Placez] Merged PR 7068: Payment Setup UI** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/49068e209a7a4c6fa86ee505210501c31c6cc886))
 
+### _2026-01-13 13:01:00_ **[Placez] Merged PR 7179: remove tax percentages from invoice table and venue settings** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/fd4036987fd803f940094e96c308f5758c97f0c4))
+
