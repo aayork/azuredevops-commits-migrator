@@ -113,3 +113,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-01-13 13:01:00_ **[Placez] Merged PR 7179: remove tax percentages from invoice table and venue settings** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/fd4036987fd803f940094e96c308f5758c97f0c4))
 
+### _2026-01-13 14:01:00_ **[Placez] Merged PR 7226: Fix build** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/25cdc5596808d1dcc032c915392cfc83b2c997f9))
+
