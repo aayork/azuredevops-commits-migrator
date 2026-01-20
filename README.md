@@ -119,3 +119,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-01-13 19:01:00_ **[Placez] Merged PR 7235: Wireup invoice settings** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/186a79d627739748fb98a1e65e5871075a283604))
 
+### _2026-01-20 16:01:00_ **[Placez] Merged PR 7297: change invoice download button functionality** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/a22f6e45cd56fc6ec4df7ed7f2c8e0be4fcadadb))
+
