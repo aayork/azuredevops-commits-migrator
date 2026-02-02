@@ -123,3 +123,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-01-27 13:01:00_ **[Placez] Merged PR 7351: wireup business info + show in invoice download** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/a3bd52998fea823b6e0666e36a3e11694e8632ac))
 
+### _2026-02-02 23:02:00_ **[Placez] Merged PR 7424: Invoice PDF download + minor Invoice bug fixes** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/9a0e7db820aaef3875b61b1dfd9706c7eac32bbc))
+
