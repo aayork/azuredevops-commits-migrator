@@ -129,3 +129,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-02-09 20:02:00_ **[Placez] Merged PR 7479: handle cases where subevent template venue returns null** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/85a5403ccf370770ff3335832355ba62f389c144))
 
+### _2026-02-02 23:02:00_ **[Placez] Merged PR 7424: Invoice PDF download + minor Invoice bug fixes** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/9a0e7db820aaef3875b61b1dfd9706c7eac32bbc))
+
