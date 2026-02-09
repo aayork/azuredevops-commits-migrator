@@ -125,3 +125,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-02-02 23:02:00_ **[Placez] Merged PR 7424: Invoice PDF download + minor Invoice bug fixes** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/9a0e7db820aaef3875b61b1dfd9706c7eac32bbc))
 
+### _2026-02-09 14:02:00_ **[Placez] Merged PR 7474: update notes styling to be more consistent** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/b4de33f4cc8a4ef2eec15e406cc972d3e4f853b8))
+
