@@ -127,3 +127,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-02-09 14:02:00_ **[Placez] Merged PR 7474: update notes styling to be more consistent** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/b4de33f4cc8a4ef2eec15e406cc972d3e4f853b8))
 
+### _2026-02-09 20:02:00_ **[Placez] Merged PR 7479: handle cases where subevent template venue returns null** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/85a5403ccf370770ff3335832355ba62f389c144))
+
