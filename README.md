@@ -137,3 +137,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-06 20:05:00_ **[Placez] Merged PR 8162: show annotations in screenshots** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/c4f93d94659274b554481b1c05043680bed10600))
 
+### _2026-05-07 21:05:00_ **[Placez] Merged PR 8163: save new labels immediately and reflect change without refresh** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/24f295a55f29822467a34bbb5db71acd8ed10bc0))
+
