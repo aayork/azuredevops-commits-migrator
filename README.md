@@ -141,3 +141,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-07 21:05:00_ **[Placez] Merged PR 8164: potential fix for notes returning to previous spot glitch** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/b43bc5fc1d88cd5ca17c267f75825976ba41082e))
 
+### _2026-05-11 12:05:00_ **[Placez] Merged PR 8167: render item labels when in b&w shader mode** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/cba14f848836a0c319ae8da5ce840f75d8aed7c7))
+
