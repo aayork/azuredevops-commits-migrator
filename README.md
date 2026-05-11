@@ -145,3 +145,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-11 12:05:00_ **[Placez] Merged PR 8168: add a check to make sure copied items have a media asset id** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/8ac0bf2969e08210b3260c073ba30b91eb3e5ed2))
 
+### _2026-05-11 22:05:00_ **[Placez] Merged PR 8172: Fix overlapping names bug** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/ea4761efc648c54420bca41c47447ba035cfe003))
+
