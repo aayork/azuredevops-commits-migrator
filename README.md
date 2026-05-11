@@ -143,3 +143,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-11 12:05:00_ **[Placez] Merged PR 8167: render item labels when in b&w shader mode** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/cba14f848836a0c319ae8da5ce840f75d8aed7c7))
 
+### _2026-05-11 12:05:00_ **[Placez] Merged PR 8168: add a check to make sure copied items have a media asset id** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/8ac0bf2969e08210b3260c073ba30b91eb3e5ed2))
+
