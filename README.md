@@ -149,3 +149,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-12 16:05:00_ **[Placez] Merged PR 8174: add payments to placez** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/85a54e7cffaa168d07cc300a719098622b4e9623))
 
+### _2026-05-12 21:05:00_ **[Placez] Merged PR 8176: Fix annotation rotation bugs in subevent editor** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/8e54c4aa5d652b0e648180cc9b4d5593f05e0244))
+
