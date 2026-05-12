@@ -147,3 +147,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-11 22:05:00_ **[Placez] Merged PR 8172: Fix overlapping names bug** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/ea4761efc648c54420bca41c47447ba035cfe003))
 
+### _2026-05-12 16:05:00_ **[Placez] Merged PR 8174: add payments to placez** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/85a54e7cffaa168d07cc300a719098622b4e9623))
+
