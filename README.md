@@ -151,3 +151,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-12 21:05:00_ **[Placez] Merged PR 8176: Fix annotation rotation bugs in subevent editor** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/8e54c4aa5d652b0e648180cc9b4d5593f05e0244))
 
+### _2026-05-13 13:05:00_ **[Placez] Merged PR 8178: fix potential race condition in print modal** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/021a084fc7941ff299ac1a34e318aa2730d5a9f5))
+
