@@ -155,3 +155,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-13 19:05:00_ **[Placez] Merged PR 8179: Fix copy paste issue** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/3eab092252c3fc0252aa25ea957af017fe525e42))
 
+### _2026-05-15 12:05:00_ **[Placez] Merged PR 8183: fix issues with saving/screenshotting subevent layouts** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/6af6d961dcfcd21f6c4055eccf6140a743db923f))
+
