@@ -159,3 +159,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-15 14:05:00_ **[Placez] Merged PR 8184: fix save issue with batch mode** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/8ca5de8849f2a93214ed5bc5f5f8413f5098b78a))
 
+### _2026-05-15 19:05:00_ **[Placez] Merged PR 8185: allow changing of floorplan in subevent details modal** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/3270dd37b75d0ed7db786a22daeaa8f669b21609))
+
