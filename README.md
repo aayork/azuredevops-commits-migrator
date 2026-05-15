@@ -157,3 +157,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-15 12:05:00_ **[Placez] Merged PR 8183: fix issues with saving/screenshotting subevent layouts** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/6af6d961dcfcd21f6c4055eccf6140a743db923f))
 
+### _2026-05-15 14:05:00_ **[Placez] Merged PR 8184: fix save issue with batch mode** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/8ca5de8849f2a93214ed5bc5f5f8413f5098b78a))
+
