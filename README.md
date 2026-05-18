@@ -161,3 +161,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-15 19:05:00_ **[Placez] Merged PR 8185: allow changing of floorplan in subevent details modal** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/3270dd37b75d0ed7db786a22daeaa8f669b21609))
 
+### _2026-05-18 17:05:00_ **[Placez] Merged PR 8189: fit floorplan to view** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/b3dafa5f89a724a0fca8d3e7fe34754d9752f4c7))
+
