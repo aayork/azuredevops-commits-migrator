@@ -163,3 +163,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-18 17:05:00_ **[Placez] Merged PR 8189: fit floorplan to view** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/b3dafa5f89a724a0fca8d3e7fe34754d9752f4c7))
 
+### _2026-05-19 16:05:00_ **[Placez] Merged PR 8192: fix issue with wall scaling** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/e9f5f5d0b3eef438fb857eed749bb7aa72d02512))
+
