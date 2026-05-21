@@ -165,3 +165,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-19 16:05:00_ **[Placez] Merged PR 8192: fix issue with wall scaling** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/e9f5f5d0b3eef438fb857eed749bb7aa72d02512))
 
+### _2026-05-21 13:05:00_ **[Placez] Merged PR 8196: fix issue with chair labels showing incorrectly** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/f23ade9d0ba7ed5220557ad10e94c2271dede82a))
+
