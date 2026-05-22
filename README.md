@@ -169,3 +169,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-21 15:05:00_ **[Placez] Merged PR 8200: fix build error and show toast when attempting to save invalid item(s)** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/87b4d8ccf173da73a9dff631563d53243b279762))
 
+### _2026-05-22 12:05:00_ **[Placez] Merged PR 8201: fix some issues with table number labels** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/7c6245d890817c2d0582071f187c536ec75792ab))
+
