@@ -173,3 +173,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-26 12:05:00_ **[Placez] Merged PR 8204: conditionally render payments UI based on if org has mid** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/81c94595809d4bc8fb01c4e0429da6e1f6d4155b))
 
+### _2026-05-26 20:05:00_ **[Placez] Merged PR 8206: add notes slider and store syles in local storage** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/6f2a016be7915da7b7ce2bf14a5ed3c868fca4b0))
+
