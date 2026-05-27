@@ -175,3 +175,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-26 20:05:00_ **[Placez] Merged PR 8206: add notes slider and store syles in local storage** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/6f2a016be7915da7b7ce2bf14a5ed3c868fca4b0))
 
+### _2026-05-27 15:05:00_ **[Placez] Merged PR 8190: fix potential cache validation issues when loading layouts** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/1e084269a61705faa947c2845aee9a99edc3a781))
+
