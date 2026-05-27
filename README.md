@@ -177,3 +177,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-27 15:05:00_ **[Placez] Merged PR 8190: fix potential cache validation issues when loading layouts** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/1e084269a61705faa947c2845aee9a99edc3a781))
 
+### _2026-05-27 20:05:00_ **[Placez] Merged PR 8208: many fixes to table number labels** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/dfe97d8488d23f3d30110bc20a05e8588de424f6))
+
