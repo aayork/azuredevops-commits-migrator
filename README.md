@@ -179,3 +179,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-27 20:05:00_ **[Placez] Merged PR 8208: many fixes to table number labels** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/dfe97d8488d23f3d30110bc20a05e8588de424f6))
 
+### _2026-05-28 14:05:00_ **[Placez] Merged PR 8210: Make bottom bar visible again** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/d027bbe2c2b3cc90e43de4cc8aa7443160a59a9e))
+
