@@ -181,3 +181,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-28 14:05:00_ **[Placez] Merged PR 8210: Make bottom bar visible again** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/d027bbe2c2b3cc90e43de4cc8aa7443160a59a9e))
 
+### _2026-05-29 14:05:00_ **[Placez] Merged PR 8212: only save note size as an int** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/6a7ca3f440e14062e89fadd9f29be866e1f66173))
+
