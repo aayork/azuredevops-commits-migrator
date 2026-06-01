@@ -183,3 +183,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-05-29 14:05:00_ **[Placez] Merged PR 8212: only save note size as an int** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/6a7ca3f440e14062e89fadd9f29be866e1f66173))
 
+### _2026-06-01 14:06:00_ **[Placez] Merged PR 8216: show floorplan label in subevent card** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/37bb5dbbfdc7024a013a4bafd92a19bdb367b3b3))
+
