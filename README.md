@@ -185,3 +185,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-01 14:06:00_ **[Placez] Merged PR 8216: show floorplan label in subevent card** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/37bb5dbbfdc7024a013a4bafd92a19bdb367b3b3))
 
+### _2026-06-01 19:06:00_ **[Placez] Merged PR 8217: make floorplan preview larger in print modal** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/766d6c5aa828e956787053c452fe0c62a54877cb))
+
