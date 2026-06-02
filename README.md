@@ -189,3 +189,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-02 19:06:00_ **[Placez] Merged PR 8219: Fix template override bug** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/a8bda27c37fa8098dea10171b898849550ce9681))
 
+### _2026-06-02 21:06:00_ **[Placez] Merged PR 8220: remove mediaAssetId alltogether** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/63a95a4cf6d2aff4bc918297330dee178818da18))
+
