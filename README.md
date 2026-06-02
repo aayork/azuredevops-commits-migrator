@@ -187,3 +187,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-01 19:06:00_ **[Placez] Merged PR 8217: make floorplan preview larger in print modal** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/766d6c5aa828e956787053c452fe0c62a54877cb))
 
+### _2026-06-02 19:06:00_ **[Placez] Merged PR 8219: Fix template override bug** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/a8bda27c37fa8098dea10171b898849550ce9681))
+
