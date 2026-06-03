@@ -191,3 +191,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-02 21:06:00_ **[Placez] Merged PR 8220: remove mediaAssetId alltogether** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/63a95a4cf6d2aff4bc918297330dee178818da18))
 
+### _2026-06-03 16:06:00_ **[Placez] Merged PR 8222: only remove mediaAssetId from old/existing items** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/914341b20c9cc773818f4af5729a79f94fb136dc))
+
