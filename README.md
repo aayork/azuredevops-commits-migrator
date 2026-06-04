@@ -193,3 +193,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-03 16:06:00_ **[Placez] Merged PR 8222: only remove mediaAssetId from old/existing items** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/914341b20c9cc773818f4af5729a79f94fb136dc))
 
+### _2026-06-04 19:06:00_ **[Placez] Merged PR 8224: create labels in real time** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/97f1510dcd172fefc81dbba40abde43e5f63714b))
+
