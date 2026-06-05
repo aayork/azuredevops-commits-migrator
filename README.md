@@ -195,3 +195,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-04 19:06:00_ **[Placez] Merged PR 8224: create labels in real time** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/97f1510dcd172fefc81dbba40abde43e5f63714b))
 
+### _2026-06-05 19:06:00_ **[Placez] Merged PR 8230: allow 2d assets to be resized** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/bcf4ffb9e6b670de1655793a591c0375a809a24d))
+
