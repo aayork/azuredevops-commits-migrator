@@ -197,3 +197,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-05 19:06:00_ **[Placez] Merged PR 8230: allow 2d assets to be resized** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/bcf4ffb9e6b670de1655793a591c0375a809a24d))
 
+### _2026-06-08 20:06:00_ **[Placez] Merged PR 8231: fix label sizes in print wizard** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/81fac5fdfed177f20934c6eeb983003bb36de73e))
+
