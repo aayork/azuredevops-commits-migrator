@@ -199,3 +199,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-08 20:06:00_ **[Placez] Merged PR 8231: fix label sizes in print wizard** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/81fac5fdfed177f20934c6eeb983003bb36de73e))
 
+### _2026-06-09 17:06:00_ **[Placez] Merged PR 8233: fix failed to save error when copying some objects** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/937dab603c78ab1fd2be3e9fb8a43e4a790651c5))
+
