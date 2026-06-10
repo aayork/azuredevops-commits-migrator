@@ -201,3 +201,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-09 17:06:00_ **[Placez] Merged PR 8233: fix failed to save error when copying some objects** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/937dab603c78ab1fd2be3e9fb8a43e4a790651c5))
 
+### _2026-06-10 16:06:00_ **[Placez] Merged PR 8236: fix the is template checkbox** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/b26d0f9e6d3773cbb389ca28c7f3d0e28cd4c345))
+
