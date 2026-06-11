@@ -203,3 +203,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-10 16:06:00_ **[Placez] Merged PR 8236: fix the is template checkbox** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/b26d0f9e6d3773cbb389ca28c7f3d0e28cd4c345))
 
+### _2026-06-11 19:06:00_ **[Placez] Merged PR 8239: allow admin to access media route in prod** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/f64f95a95e80d1d27c24910786f75c80b8611040))
+
