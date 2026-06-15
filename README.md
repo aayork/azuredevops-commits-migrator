@@ -209,3 +209,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-15 14:06:00_ **[Placez] Merged PR 8242: only show the media route for admin users & fix build error** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/8c3b2aeb84708bbf18fd4d4e94c2f11c8e37e62c))
 
+### _2026-06-15 16:06:00_ **[Placez] Merged PR 8244: prevent overlap of name and number labels** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/9a79b2fb931dba7dd5cba1ea82dd90bbbcbada40))
+
