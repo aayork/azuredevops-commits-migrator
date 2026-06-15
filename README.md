@@ -207,3 +207,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-12 15:06:00_ **[Placez] Merged PR 8241: On check of 'is template' box, show all subevent info in template row** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/c5cad90ed9658d598a008c2168c5078a78994607))
 
+### _2026-06-15 14:06:00_ **[Placez] Merged PR 8242: only show the media route for admin users & fix build error** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/8c3b2aeb84708bbf18fd4d4e94c2f11c8e37e62c))
+
