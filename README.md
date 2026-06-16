@@ -215,3 +215,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-16 19:06:00_ **[Placez] Merged PR 8248: Fix issue with rotated item labels sizing** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/bd6c2767e633264d1c7fc18a54c538f8bff8ca97))
 
+### _2026-06-16 20:06:00_ **[Placez] Merged PR 8249: fix floorplan switching bug in subevent form** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/bc7f1e04eb318db5230cc0b4cf166f5515f1482a))
+
