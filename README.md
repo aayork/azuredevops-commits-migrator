@@ -211,3 +211,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-15 16:06:00_ **[Placez] Merged PR 8244: prevent overlap of name and number labels** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/9a79b2fb931dba7dd5cba1ea82dd90bbbcbada40))
 
+### _2026-06-16 17:06:00_ **[Placez] Merged PR 8247: fix issues with creating new groups** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/90c2ec276e96512dbd4ed0bc27459cf442292a0d))
+
