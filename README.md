@@ -217,3 +217,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-16 20:06:00_ **[Placez] Merged PR 8249: fix floorplan switching bug in subevent form** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/bc7f1e04eb318db5230cc0b4cf166f5515f1482a))
 
+### _2026-06-17 20:06:00_ **[Placez] Merged PR 8250: optimizations to floorplanning mode** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/33a3e9429731d59bae5a11c98a1b8abe097b85f6))
+
