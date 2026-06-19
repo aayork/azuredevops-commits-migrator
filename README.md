@@ -219,3 +219,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-17 20:06:00_ **[Placez] Merged PR 8250: optimizations to floorplanning mode** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/33a3e9429731d59bae5a11c98a1b8abe097b85f6))
 
+### _2026-06-19 14:06:00_ **[Placez] Merged PR 8253: fix bugs with event wizard when opening from event details** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/8c7b7a030a90ebecdcf6d0f704fbd0518ff61839))
+
