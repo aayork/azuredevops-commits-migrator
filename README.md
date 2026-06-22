@@ -223,3 +223,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-19 20:06:00_ **[Placez] Merged PR 8254: fix bugs with capturing floorplan previews** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/a8f7b9737b098a5ee5c4037b866700c2cb63a45b))
 
+### _2026-06-22 20:06:00_ **[Placez] Merged PR 8255: fix crash when changing linen colors** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/085528542b38a7fd1f2e9605598aaaf2c455b21e))
+
