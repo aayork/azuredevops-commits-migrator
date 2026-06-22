@@ -225,3 +225,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-22 20:06:00_ **[Placez] Merged PR 8255: fix crash when changing linen colors** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/085528542b38a7fd1f2e9605598aaaf2c455b21e))
 
+### _2026-06-22 20:06:00_ **[Placez] Merged PR 8256: show preview image with items on subevent clone** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/e8cf861bb48f3468a2057da2ab10fedd89680d59))
+
