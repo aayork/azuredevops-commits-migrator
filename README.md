@@ -227,3 +227,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-22 20:06:00_ **[Placez] Merged PR 8256: show preview image with items on subevent clone** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/e8cf861bb48f3468a2057da2ab10fedd89680d59))
 
+### _2026-06-24 19:06:00_ **[Placez] Merged PR 8258: save payments to placez db** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/7794a4e49c3ca103c23e270287a4c1549cc3475e))
+
