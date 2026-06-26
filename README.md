@@ -229,3 +229,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-24 19:06:00_ **[Placez] Merged PR 8258: save payments to placez db** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/7794a4e49c3ca103c23e270287a4c1549cc3475e))
 
+### _2026-06-26 21:06:00_ **[Placez] Merged PR 8263: fix issue with tips not saving** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/391c66b98b7c1d87f970f4880fc919f5de74e38b))
+
