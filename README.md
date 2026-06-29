@@ -231,3 +231,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-26 21:06:00_ **[Placez] Merged PR 8263: fix issue with tips not saving** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/391c66b98b7c1d87f970f4880fc919f5de74e38b))
 
+### _2026-06-29 16:06:00_ **[Placez] Merged PR 8261: fix save on drag and drop** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/4f32e6a4f528e3786586180b41337609751f9898))
+
