@@ -233,3 +233,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-29 16:06:00_ **[Placez] Merged PR 8261: fix save on drag and drop** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/4f32e6a4f528e3786586180b41337609751f9898))
 
+### _2026-06-29 17:06:00_ **[Placez] Merged PR 8265: fix notes not displaying in print wizard** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/3350f911dacdda5c72b0758c0bc6c52a1c903168))
+
