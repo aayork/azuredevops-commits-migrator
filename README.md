@@ -237,3 +237,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-06-29 20:06:00_ **[Placez] Merged PR 8268: fix issue with date/time not updating from event details modal** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/3dc3f07b0d8f51b09b6ce71005e3380b13da10ac))
 
+### _2026-06-30 20:06:00_ **[Placez] Merged PR 8270: adjustments to print wizard sizing** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/52183871278205b9a5c8ceb23548aef008bef8c8))
+
