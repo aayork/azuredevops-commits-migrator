@@ -241,3 +241,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-07-01 20:07:00_ **[Placez] Merged PR 8272: fix surcharging** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/c5822ed057ae6315b056ca2dcdba064c13236a03))
 
+### _2026-07-06 15:07:00_ **[Placez] Merged PR 8275: assign table number when attendee is assigned to table without one** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/a985f6cc3cee4de76490d466a18a467ba2688741))
+
