@@ -245,3 +245,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-07-07 19:07:00_ **[Placez] Merged PR 8276: frontend changes to optimize events grid** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/bf783fdbbd0c0c103719005594b33c6dc0545d6a))
 
+### _2026-07-08 13:07:00_ **[Placez] Merged PR 8279: additional fixes to surcharging** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/38dbdca747db1c4e3b4d13de7449644926eb82d1))
+
