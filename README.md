@@ -247,3 +247,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-07-08 13:07:00_ **[Placez] Merged PR 8279: additional fixes to surcharging** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/38dbdca747db1c4e3b4d13de7449644926eb82d1))
 
+### _2026-07-09 18:07:00_ **[Placez] Merged PR 8285: show org settings** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/245efe9cb0bdd0a7b229a07f23f43cbe47b04bb3))
+
