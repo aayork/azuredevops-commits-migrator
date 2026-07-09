@@ -249,3 +249,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-07-09 18:07:00_ **[Placez] Merged PR 8285: show org settings** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/245efe9cb0bdd0a7b229a07f23f43cbe47b04bb3))
 
+### _2026-07-09 18:07:00_ **[Placez] Merged PR 8287: change post to put** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/038f47fb98d3b4b8aa424c3d3c945233394df7a4))
+
