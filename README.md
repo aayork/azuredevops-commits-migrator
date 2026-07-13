@@ -251,3 +251,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-07-09 18:07:00_ **[Placez] Merged PR 8287: change post to put** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/038f47fb98d3b4b8aa424c3d3c945233394df7a4))
 
+### _2026-07-13 15:07:00_ **[Placez] Merged PR 8292: adjust percentage amount saved to backend** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/f65fae416b86c0301bdcdac4470b4690d394e634))
+
