@@ -253,3 +253,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-07-13 15:07:00_ **[Placez] Merged PR 8292: adjust percentage amount saved to backend** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/f65fae416b86c0301bdcdac4470b4690d394e634))
 
+### _2026-07-14 15:07:00_ **[Placez] Merged PR 8295: fix issue with item resize function making some assets un-raycastable** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/255a1150f8996db846ee1518489474ecd4a6b4e0))
+
