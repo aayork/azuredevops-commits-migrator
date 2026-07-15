@@ -255,3 +255,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-07-14 15:07:00_ **[Placez] Merged PR 8295: fix issue with item resize function making some assets un-raycastable** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/255a1150f8996db846ee1518489474ecd4a6b4e0))
 
+### _2026-07-15 15:07:00_ **[Placez] Merged PR 8296: fix issue with attendees and new table numbers** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/85d446a35b63b226c0a5554854b98efdcf42a196))
+
