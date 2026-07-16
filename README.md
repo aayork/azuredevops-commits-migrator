@@ -257,3 +257,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-07-15 15:07:00_ **[Placez] Merged PR 8296: fix issue with attendees and new table numbers** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/85d446a35b63b226c0a5554854b98efdcf42a196))
 
+### _2026-07-16 18:07:00_ **[Placez] Merged PR 8300: update payment link settings instead of creating new** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/4d6fdfed895d46023d6a757351e435eab88de9db))
+
