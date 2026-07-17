@@ -259,3 +259,5 @@ For this repo you can choose private or public as you want. But this default bra
 
 ### _2026-07-16 18:07:00_ **[Placez] Merged PR 8300: update payment link settings instead of creating new** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/4d6fdfed895d46023d6a757351e435eab88de9db))
 
+### _2026-07-17 20:07:00_ **[Placez] Merged PR 8305: fix bug causing label to reset on drop** ([link](https://dev.azure.com/HorizonBusinessServices/Placez/_git/Placez/commit/d844a2346fb5df13e25aa0414d2e37be26cd4e98))
+
